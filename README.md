@@ -3,7 +3,7 @@
 ## Group 7 Members:
 
 ### Caelyn Arabelle D. Maglaya
-Shortest member <3
+Hi! I may be the shortest member, but that doesn't mean I contribute less <3
 
 ### Matt Nathaniel M. Antonio
 Nethrinn | Electric Guitar | No. 1 Neon | 100 Thieves Contributor
