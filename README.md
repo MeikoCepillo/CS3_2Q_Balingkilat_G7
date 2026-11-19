@@ -7,3 +7,6 @@ Shortest member <3
 
 ### Matt Nathaniel M. Antonio
 Nethrinn | Electric Guitar | No. 1 Neon | 100 Thieves Contributor
+
+### Ryan Meiko L. Cepillo
+Matalino | Volleyball Player
