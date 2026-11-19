@@ -4,3 +4,6 @@
 
 # Caelyn Arabelle D. Maglaya
 Shortest member <3
+
+# Matt Nathaniel M. Antonio
+Nethrinn | Maangas | No. 1 Neon
