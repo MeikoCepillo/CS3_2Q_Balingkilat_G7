@@ -6,4 +6,4 @@
 Shortest member <3
 
 ### Matt Nathaniel M. Antonio
-Nethrinn | Maangas | No. 1 Neon
+Nethrinn | Electric Guitar | No. 1 Neon | 100 Thieves Contributor
