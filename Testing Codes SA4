@@ -1,0 +1,15 @@
+class Student:
+    def __init__(self,name):
+        self.name = name
+        print(self.name,"is present today")
+    def __str__(self):
+        return self.name + " "
+
+class Attendance:
+    def __init__(self,name,student):
+        self.name = name
+        self.student = student
+        print(self.student.name,"is present")
+
+s1 = Student("Meiko Cepillo")
+check = Attendance(" ",s1)
